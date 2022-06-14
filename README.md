@@ -94,14 +94,14 @@
 linkedi | Twitter | insta | kaggle | tableau | dev | Telegram -->
 
 <!-- </p>
-
+<!-- 
 <!-- 
 ![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg) -->
-![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
+<!-- ![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
 ![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
 
 
 
-<p align="center">
-Check out my repos ⬇️  
-</p> -->
+<p align="center"> -->
+<!-- Check out my repos ⬇️   -->
+</p> --> -->
