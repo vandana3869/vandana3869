@@ -11,7 +11,7 @@
 
 - 🎓 I'm an Electrial and Electronics Engineering undergraduate
 - 💻 I’m currently working at Fontend skills
-- 👯 Looking to collaborate on projects that are using Python.
+
 - ⭐ 2022's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
 
